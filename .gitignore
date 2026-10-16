@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.user
+*.suo
+.vs/
+build/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.log
+file-transfer/data/
+file-transfer/file/
+file-transfer/tmp/
+file-transfer/log/
